@@ -12,7 +12,7 @@
 #### Donde puedes encontarme:
 
 [![Instagram](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-1.jpg)]()
-[![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-2.jpg)]()
+[![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-2.jpg)](https://paugraupera7.artstation.com/)
 
 
 <!--
