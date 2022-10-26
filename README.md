@@ -1,6 +1,14 @@
 ## Hola, soy Pau Graupera.
 ##### Estudiante de desarrollo de videojuegos y 3D.
 
+#### Programas que utilizo:
+
+[![3dsMax](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/3ds.jpg)]()
+[![Maya](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/maya.jpg)]()
+</br>
+[![Photoshop](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/photo.jpg)]()
+[![Unity](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/unity.jpg)]()
+
 #### Donde puedes encontarme:
 
 [![Instagram](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-1.jpg)]()
