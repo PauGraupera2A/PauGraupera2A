@@ -1,11 +1,11 @@
 ## Hola, soy Pau Graupera.
-#### Estudiante de desarrollo de videojuegos y 3D.
+##### Estudiante de desarrollo de videojuegos y 3D.
 
-### Programas que utilizo:
+#### Donde puedes encontarme:
 
-[![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/artstation.jpg)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+[![Instagram](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-1.jpg)]()
+[![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-2.jpg)]()
+
 
 <!--
 **PauGraupera2A/PauGraupera2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
