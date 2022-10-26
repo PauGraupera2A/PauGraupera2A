@@ -3,7 +3,7 @@
 
 ### Programas que utilizo:
 
-[![3Ds MAX](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/artstation.jpg)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
