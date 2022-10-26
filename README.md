@@ -1,7 +1,7 @@
 ## Hola, soy Pau Graupera.
-#### Estudiante de desarrollo de videojuegos y 3D.
+##### Estudiante de desarrollo de videojuegos y 3D.
 
-### Donde puedes encontarme:
+#### Donde puedes encontarme:
 
 [![Instagram](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-1.jpg)]()
 [![ArtStation](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/Untitled-2.jpg)]()
