@@ -1,5 +1,5 @@
-### Hola, soy Pau Graupera.
-## Estudiante de desarrollo de videojuegos y 3D.
+## Hola, soy Pau Graupera.
+### Estudiante de desarrollo de videojuegos y 3D.
 
 <!--
 **PauGraupera2A/PauGraupera2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
