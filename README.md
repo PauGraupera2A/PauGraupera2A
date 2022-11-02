@@ -1,6 +1,9 @@
 ## Hola, soy Pau Graupera.
 ##### Estudiante de desarrollo de videojuegos y 3D.
 
+<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-render-10000.jpg" width="400">
+<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-paugraupera1.jpg" width="400">
+
 #### Programas que utilizo:
 
 [![3dsMax](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/3ds.jpg)]()
