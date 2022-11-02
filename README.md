@@ -2,6 +2,7 @@
 ##### Estudiante de desarrollo de videojuegos.
 
 Hola soy Pau y llevo 1 año estudiando desarrollo de videojuegos y todo lo que los compone.
+</br>
 Lo que mas me gusta hacer es programar y modelar .
 
 
