@@ -1,16 +1,24 @@
 ## Hola, soy Pau Graupera.
-##### Estudiante de desarrollo de videojuegos y 3D.
+##### Estudiante de desarrollo de videojuegos.
 
-<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-render-10000.jpg" width="400">
-<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-paugraupera1.jpg" width="400">
+Hola soy Pau y llevo 1 año estudiando desarrollo de videojuegos y todo lo que los compone.
+Lo que mas me gusta hacer es programar y modelar .
+
+
+#### Algunos de mis trabajos:
+<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-render-10000.jpg" width="400"> <img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-paugraupera1.jpg" width="400">
+<img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-siluetas-thumbnails.jpg" width="400"> <img src="https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/pau-graupera-paugrauperatorsos.jpg" width="400">
 
 #### Programas que utilizo:
 
 [![3dsMax](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/3ds.jpg)]()
 [![Maya](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/maya.jpg)]()
+[![Painter](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/painter1.jpg)]()
 </br>
 [![Photoshop](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/photo.jpg)]()
 [![Unity](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/unity.jpg)]()
+[![Zbrush](https://github.com/PauGraupera2A/PauGraupera2A/blob/main/Images/zbrush.jpg)]()
+
 
 #### Donde puedes encontarme:
 
